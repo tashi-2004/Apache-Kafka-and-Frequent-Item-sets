@@ -45,3 +45,5 @@ Python 3.x
 Kafka
 MongoDB Compass & MongoDB Connector
 Other dependencies as specified in the codes
+# Note
+Kindly, remove numbers at the start f the files. They are just given for clarifications
