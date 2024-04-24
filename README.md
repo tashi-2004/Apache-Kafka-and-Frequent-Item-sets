@@ -46,4 +46,4 @@ Kafka
 MongoDB Compass & MongoDB Connector
 Other dependencies as specified in the codes
 # Note
-Kindly, remove numbers at the start f the files. They are just given for clarifications
+Kindly, remove numbers at the start of the files e.g, Change 3) producer.py to producer.py. They are just given for clarifications. Thank You! 
