@@ -13,7 +13,7 @@ This project is designed to:
 - Perform real-time analytics and gain insights from the dataset
 - Preprocess the dataset to prepare it for analysis
 - Use multiple consumer applications to perform different tasks and analyses on the data stream
-
+  
 ## Files
 - `sampling.py`: Python script for sampling the Amazon Metadata dataset.
 - `pre-processing.py`: Python script for preprocessing the sampled dataset.
