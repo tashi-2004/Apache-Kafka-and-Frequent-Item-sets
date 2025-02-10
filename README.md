@@ -66,6 +66,6 @@ This project performs simple analysis on the dataset, including:
 ## Contributors
 - M.Tashfeen Abbasi
 - [Laiba Mazhar](https://github.com/laiba-mazhar)
-- [Rafia Khan](https://github.com/rakhan2)
+- [Rafia Khan](https://github.com/rafiahkhan)
 
 Thank you!
