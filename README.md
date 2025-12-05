@@ -21,7 +21,7 @@ This project is designed to:
 - `consumer1.py`, `consumer2.py`, `consumer3.py`: Python scripts for the consumer applications subscribing to the producer's data stream.
 - `Apriori.py`: Python script implementing the Apriori algorithm for frequent itemset mining.
 - `PCY.py`: Python script implementing the PCY algorithm for frequent itemset mining.
-- `Bloomfilter.py`: Python script for implementing the Bloom Filter data structure.
+- `Bloomfilter.py`: Python script that implements the Bloom Filter data structure with support for insertion and membership queries.
 - `Database_Apriori.py`: Python script for integrating Apriori results with the MongoDB Compass database.
 - `Database_PCY.py`: Python script for integrating PCY results with the MongoDB Compass database.
 - `Database_Bloomfilter.py`: Python script for integrating Bloom Filter results with the MongoDB Compass database.
